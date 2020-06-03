@@ -1,14 +1,15 @@
 # A03
 <h3>Tutorial:</h3>
 
-  1 - Open Webstorm's settings\
-  2 - Test the git.exe file by connecting it to webstorm (Version Control)\
-  3 - Using the VCS tab, create a git repository from import into version control to create a local repository\
-	4 - Click "Commit" in the VCS tab or the checkmark in the top right corner of Webstorm\
-	5 - Remeber to add a comment to each commit of any changes made in your files!\
-	6 - Using the Import Into tab, enter your GitHub username & password and share the project on github\
-	7 - Double check that the project has been created on GitHub's site and that the name matches what you created through Webstorm\
-	8 - Any future changes just need to be committed and then pushed to the repository on GitHub
+  1 - Download [Git](https://git-scm.com/downloads) and [Webstorm](https://www.jetbrains.com/webstorm/download)\
+  2 - Open Webstorm's settings\
+  3 - Test the git.exe file by connecting it to webstorm (Version Control)\
+  4 - Using the VCS tab, create a git repository from import into version control to create a local repository\
+  5 - Click "Commit" in the VCS tab or the checkmark in the top right corner of Webstorm\
+  6 - Remeber to add a comment to each commit of any changes made in your files!\
+  7 - Using the Import Into tab, enter your GitHub username & password and share the project on github\
+  8 - Double check that the project has been created on GitHub's site and that the name matches what you created through Webstorm\
+  9 - Any future changes just need to be committed and then pushed to the repository on GitHub
 
 <h3>Definitions:</h3>
 
@@ -44,7 +45,13 @@ you to review changes before committing them to your local branch.\
 <b>Remote</b> - the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be 
 connected to local clones so that changes can be synced.
 
+<h4>Downloads:</h4>
+
+<b>Git</b>: https://git-scm.com/downloads \
+<b>Webstorm</b>: https://www.jetbrains.com/webstorm/download
 
 <h6>References:</h6>
 
 https://help.github.com/en/github/getting-started-with-github/github-glossary
+
+
